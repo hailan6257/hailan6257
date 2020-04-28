@@ -9,6 +9,10 @@ meta标签都用来做什么的？
 Web语义化是什么，是为了解决什么问题
 //web语义化是指网页文档的语义明确化和机器可读化，是为了方便浏览器理解网页文档所要表达的内容。
 链接是什么概念，对应什么标签？
+//链接就是web网页的地址，对应a标签
 常用标签都有哪些，都适合用在什么场景
+//<html>文档类型(autocomplete,target,name),<head>定义标题,<body>定义主体内容,<p>段落,<a>超链接，<div>文档分割等。
 表单标签都有哪些，对应着什么功能，都有哪些属性
+//<form>定义供用户输入的表单，<input>定义输入域。<selcet>定义一个选择列表，<textarea>定义文本域。
 ol, ul, li, dl, dd, dt等这些标签都适合用在什么地方，举个例子
+//The <ol> tag defines an ordered list.For unordered list, use the <ul> tag.Use the <li> tag to define list items.The <dl> tag defines a description list.The <dd> tag is used to describe a term/name in a description list.The <dt> tag defines a term/name in a description list.
